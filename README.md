@@ -1,5 +1,5 @@
 # Showers-of-Rock-3D-Game
-It's a 3D FPS game developed using Unity.
+It's a 3D First Person game developed using Unity.
 
 
 ![SS1](https://github.com/Abhinandan-Pal/Showers-of-Rock-3D-Game/blob/master/Game%20Images/four.png)
